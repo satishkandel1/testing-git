@@ -1,2 +1,3 @@
-# testing-git
-This is my first file on git.
+# complete notes till date
+This folder contains a collection of notes projects and photos.
+
